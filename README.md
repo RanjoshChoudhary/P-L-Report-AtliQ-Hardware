@@ -1,7 +1,9 @@
 # P-L-Report-AtliQ-Hardware
-P&L reports for AtliQ Hardware using Excel and DAX, analyzing key financial metrics and **showcasing significant year-over-year growth in Net Sales** and Gross Margin. Explore my portfolio for details.
+P&L reports for AtliQ Hardware using Excel and DAX, analyzing key financial metrics and **showcasing significant year-over-year growth in Net Sales** and Gross Margin. Power Query for **Data Cleaning/Transformation**. **Power Pivot for Data Modelling**. The Data Model is provided in this doc file. Conditional Formatting to See Trends in Metrics. DAX Measures like **SUM, CALCULATE** etc are used to do complex custom calculations.
 
-<img width="594" alt="schema_diagram" src="(https://github.com/RanjoshChoudhary/P-L-Report-AtliQ-Hardware/blob/main/Data_Model.JPG)">
+<h2>Data Model</h2>
+<img width="594" alt="Data_Model" src="https://github.com/RanjoshChoudhary/P-L-Report-AtliQ-Hardware/blob/main/Data_Model.JPG">
+Main **Sales Fact Table with Approx 1 million rows** with 4 supporting Dimension Tables.
 
 <h2>Market Performance Vs Target</h2>
 
