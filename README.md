@@ -1,6 +1,8 @@
 # P-L-Report-AtliQ-Hardware
 P&L reports for AtliQ Hardware using Excel and DAX, analyzing key financial metrics and **showcasing significant year-over-year growth in Net Sales** and Gross Margin. Explore my portfolio for details.
 
+<img width="594" alt="schema_diagram" src="(https://github.com/RanjoshChoudhary/P-L-Report-AtliQ-Hardware/blob/main/Data_Model.JPG)">
+
 <h2>Market Performance Vs Target</h2>
 
 From 2019 to 2021, market performance demonstrated substantial revenue growth, with total sales increasing to $598.9 million from $87.5 million in 2019 and $196.7 million in 2020. This significant rise showcases the company's robust expansion and market penetration over these years. However, despite the impressive growth figures, all regions fell short of their 2021 targets, resulting in a combined shortfall of $54.9 million, or 9.2% below the projected figures.
